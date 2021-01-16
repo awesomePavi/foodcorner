@@ -617,6 +617,7 @@ pre code {
   padding-left: 0.75rem;
   margin-right: auto;
   margin-left: auto;
+  max-width: 1920px;
 }
 
 .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
@@ -4007,6 +4008,22 @@ input[type=button].btn-block {
 }
 .tab-content > .active {
   display: block;
+}
+
+.menuViewer img {
+  background: black;
+  width: 100%;
+  height: auto;
+}
+
+.home-toggler-right {
+  color: white;
+}
+
+@media (max-width: 991.98px) {
+  .home-toggler-right {
+    color: black;
+  }
 }
 
 .navbar {
