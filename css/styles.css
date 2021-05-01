@@ -10571,3 +10571,11 @@ section.order form#orderForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+.DDPoints {
+  color: #ffd43d;
+}
+
+.DDPoints img {
+  max-height: 2rem;
+}
